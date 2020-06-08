@@ -1,2 +1,2 @@
 # IA
-Practicas de IA
+Código de practicas de Inteligencia Artificial
